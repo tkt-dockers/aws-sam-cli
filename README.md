@@ -1,3 +1,13 @@
-# Dockerfile
+# Image for AWS SAM CLI
 
-See https://hub.docker.com/repository/docker/tktcorporation/aws-sam-cli
+## Usage
+
+- for using aws sam cli
+
+```sh
+sam {any sam command}
+```
+
+## Base image
+
+- tktcorporation/python-awscli

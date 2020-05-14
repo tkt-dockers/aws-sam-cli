@@ -8,6 +8,9 @@
 sam {any sam command}
 ```
 
-## Base image
+## Supported tags
 
-- tktcorporation/python-awscli
+- `awscli2-node12-latest`
+- `awscli2-latest`
+- `awscli2-node12-latest`
+- `awscli1-latest`
